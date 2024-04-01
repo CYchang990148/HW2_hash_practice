@@ -41,3 +41,5 @@ print(dictionary)
 ```
 
 ## Result 
+> 10 different strings in the file
+{'Cheese': 234, 'Pizza': 83, 'Coke': 145, 'Steak': 46, 'Burger': 196, 'Fries': 76, 'Rib': 33, 'Taco': 57, 'Pho': 19, 'Potato': 3}
