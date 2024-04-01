@@ -43,3 +43,4 @@ print(dictionary)
 ## Result 
 > 10 different strings in the file
 > {'Cheese': 234, 'Pizza': 83, 'Coke': 145, 'Steak': 46, 'Burger': 196, 'Fries': 76, 'Rib': 33, 'Taco': 57, 'Pho': 19, 'Potato': 3}
+![image](https://github.com/CYchang990148/HW2_hash_practice/assets/161935555/32ec6617-f800-4acc-bc4f-e735649f1c8c)
